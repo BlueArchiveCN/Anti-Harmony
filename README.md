@@ -1,3 +1,3 @@
-# blue-archiveChinaServerAnti-Harmony
+# bluearchiveChinaServerAnti-Harmony
 This is a blue archive China server anti-harmony warehouse
 Irregularly updated
