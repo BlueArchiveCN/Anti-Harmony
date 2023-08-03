@@ -15,7 +15,7 @@
 第五步：打开蔚蓝档案   
 文字看不懂？ [视频教程](https://www.bilibili.com/video/BV1PM4y1p79e/)   
 
-**仍然不会？**  [**点击链接加入群聊【BA国服反和谐交流群】**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=cGKlyvIt3p3Lf8B4pDjvG0idWhN0lUKX&authKey=y%2FAByEXOgj04okOe6we4QusY3OdNllXCLHrJvHpAzKQn7zW8ArZmrv57%2F3bEQnS2&noverify=0&group_code=907123179) **，寻求群友的帮助！**
+**仍然不会？**  [**点击链接加入群聊【BA国服反和谐交流群】**](https://qm.qq.com/cgi-bin/qm/qr?k=xJx5SpbL-Exu7Fk1oiIXldAN1J_LEUb4&jump_from=webapi&authKey=An0DcDs9/SDZsBNCDJWngMuQDt+ty7UPfwn4qto1JkCVLOAUK5TIS+ihQjTAfD2Q) **，寻求群友的帮助！（加群答案：GitHub）**
 
 如果你在手机上**找不到**下载按钮，使用以下的链接之一   
 
