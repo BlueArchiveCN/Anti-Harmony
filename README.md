@@ -13,7 +13,9 @@
 第三步：下载仓库里的反和谐文件   
 第四步：替换全部已拥有文件，完成反和谐   
 第五步：打开蔚蓝档案   
-文字看不懂？ [视频教程](https://www.bilibili.com/video/BV1PM4y1p79e/)
+文字看不懂？ [视频教程](https://www.bilibili.com/video/BV1PM4y1p79e/)   
+
+**仍然不会？**  [**点击链接加入群聊【BA国服反和谐交流群】**](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=cGKlyvIt3p3Lf8B4pDjvG0idWhN0lUKX&authKey=y%2FAByEXOgj04okOe6we4QusY3OdNllXCLHrJvHpAzKQn7zW8ArZmrv57%2F3bEQnS2&noverify=0&group_code=907123179) **，寻求群友的帮助！**
 
 如果你在手机上**找不到**下载按钮，使用以下的链接之一   
 
@@ -32,7 +34,3 @@ Choose one of the links below.
 | `日本加速链接`      | [bluearchiveChinaServerAnti-Harmony-main.zip](https://download.fastgit.ixmu.net/yemoyu123/bluearchiveChinaServerAnti-Harmony/archive/refs/heads/main.zip)     |
 | `韩国加速链接`      | [bluearchiveChinaServerAnti-Harmony-main.zip](https://ghproxy.com/https://github.com/yemoyu123/bluearchiveChinaServerAnti-Harmony/archive/refs/heads/main.zip) |
 | `新加坡加速链接`         | [bluearchiveChinaServerAnti-Harmony-main.zip](https://kgithub.com/yemoyu123/bluearchiveChinaServerAnti-Harmony/archive/refs/heads/main.zip)     |
-
-
-
-QQ交流群 907123179
