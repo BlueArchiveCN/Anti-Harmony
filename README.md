@@ -4,3 +4,4 @@
 第二步：定位到Android/data/com.RoamingStar.BlueArchive/files/AssetBundls
 第三步：下载仓库里的反和谐文件
 第四步：替换全部已拥有文件，完成反和谐
+注：视频教程在文件里
