@@ -1,4 +1,4 @@
-# bluearchiveChinaServerAnti-Harmony
+# Anti-Harmony
 
 > 这是一个蔚蓝档案反和谐仓库   
 
@@ -9,7 +9,7 @@
 ## 教程
 
 安卓如何使用：   
-1. 打开你的手机文件管理器，（推荐用MT管理器）如果找不到的[从这里下载](https://mt2.cn/download/)   
+1. 打开你的手机文件管理器，（推荐用`MT管理器`）如果找不到的[从这里下载](https://mt2.cn/download/)   
 2. 定位到 `Android/data/com.RoamingStar.BlueArchive/files/AssetBundls`   
    **不会定位**？    
      打开MT管理器，点击最上面的`/storage/emulated/0/` ，在弹出来的“跳转”框中在`0/`的后面粘贴`Android/data/com.RoamingStar.BlueArchive/files/AssetBundls`并点击确定即可   
@@ -19,10 +19,10 @@
 4. 替换全部已拥有文件，完成反和谐   
 5. 打开蔚蓝档案   
 
-
 iOS如何使用：
-1. 打开你的手机文件管理器，（推荐用Filza）  
-2. 定位到 `/private/var/mobile/Containers/Data/Application/0881226D-4C15-4B7C-96C7-CC392B6EABA3/Documents/AssetBundls`      （“0881226D-4C15-4B7C-96C7-CC392B6EABA3” 在Filza里可能显示为“蔚蓝档案”）
+1. 打开你的手机文件管理器，（推荐用`Filza`）  
+2. 定位到 `/private/var/mobile/Containers/Data/Application/0881226D-4C15-4B7C-96C7-CC392B6EABA3/Documents/AssetBundls`   
+     （“`0881226D-4C15-4B7C-96C7-CC392B6EABA3`” 在`Filza`里可能显示为“蔚蓝档案”）
 3. 下载仓库里的反和谐文件（根据系统下载）   
 4. 替换全部已拥有文件，完成反和谐   
 5. 打开蔚蓝档案   
@@ -33,18 +33,26 @@ iOS如何使用：
 
 如果你在手机上**找不到**下载按钮，使用以下的链接之一（也可以到群里下载）   
 
+### 其他方案
+
+建议**有一定搞机基础的人员**使用   
+**Magisk**和**ADB(Android Debug Bridge)**方案仅适用于**安卓手机**且**ADB**方案**仅限电脑**使用   
+[**Magisk 模块刷入**方案 by lxdklp](https://github.com/BlueArchiveCN/Anti-Harmony-Magisk)   
+[**ADB 命令行替换**方案 by Ayin](https://github.com/BlueArchiveCN/Anti-Harmony-ADB)   
+**当然，我们也欢迎您贡献其他方案！（包括iOS的方案）**   
+
 ### Download on Android and iOS
 
 Choose one of the links below.
 
 | Link provider     | Artifact                                                     |
 | ----------------- | ------------------------------------------------------------ |
-| `GitHub 官方链接` | [bluearchiveChinaServerAnti-Harmony-main.zip](https://github.com/yemoyu123/bluearchiveChinaServerAnti-Harmony/archive/refs/heads/main.zip) |
-| `美国加速链接1`   | [bluearchiveChinaServerAnti-Harmony-main.zip](https://git.xfj0.cn/https://github.com/yemoyu123/bluearchiveChinaServerAnti-Harmony/archive/refs/heads/main.zip) |
-| `美国加速链接2`   | [bluearchiveChinaServerAnti-Harmony-main.zip](https://download.njuu.cf/yemoyu123/bluearchiveChinaServerAnti-Harmony/archive/refs/heads/main.zip) |
-| `美国加速链接3`   | [bluearchiveChinaServerAnti-Harmony-main.zip](https://hub.gitmirror.com/https://github.com/yemoyu123/bluearchiveChinaServerAnti-Harmony/archive/refs/heads/main.zip) |
-| `美国加速链接4`   | [bluearchiveChinaServerAnti-Harmony-main.zip](https://download.yzuu.cf/yemoyu123/bluearchiveChinaServerAnti-Harmony/archive/refs/heads/main.zip) |
-| `德国加速链接`    | [bluearchiveChinaServerAnti-Harmony-main.zip](https://archive.fastgit.org/yemoyu123/bluearchiveChinaServerAnti-Harmony/archive/refs/heads/main.zip) |
-| `日本加速链接`    | [bluearchiveChinaServerAnti-Harmony-main.zip](https://download.fastgit.ixmu.net/yemoyu123/bluearchiveChinaServerAnti-Harmony/archive/refs/heads/main.zip) |
-| `韩国加速链接`    | [bluearchiveChinaServerAnti-Harmony-main.zip](https://ghproxy.com/https://github.com/yemoyu123/bluearchiveChinaServerAnti-Harmony/archive/refs/heads/main.zip) |
-| `新加坡加速链接`  | [bluearchiveChinaServerAnti-Harmony-main.zip](https://kgithub.com/yemoyu123/bluearchiveChinaServerAnti-Harmony/archive/refs/heads/main.zip) |
+| `GitHub 官方链接` | [Anti-Harmony-main.zip](https://github.com/BlueArchiveCN/Anti-Harmony/archive/refs/heads/main.zip) |
+| `美国加速链接1`   | [Anti-Harmony-main.zip](https://git.xfj0.cn/https://github.com/BlueArchiveCN/Anti-Harmony/archive/refs/heads/main.zip) |
+| `美国加速链接2`   | [Anti-Harmony-main.zip](https://download.njuu.cf/BlueArchiveCN/Anti-Harmony/archive/refs/heads/main.zip) |
+| `美国加速链接3`   | [Anti-Harmony-main.zip](https://hub.gitmirror.com/https://github.com/BlueArchiveCN/Anti-Harmony/archive/refs/heads/main.zip) |
+| `美国加速链接4`   | [Anti-Harmony-main.zip](https://download.yzuu.cf/BlueArchiveCN/Anti-Harmony/archive/refs/heads/main.zip) |
+| `德国加速链接`    | [Anti-Harmony-main.zip](https://archive.fastgit.org/BlueArchiveCN/Anti-Harmony/archive/refs/heads/main.zip) |
+| `日本加速链接`    | [Anti-Harmony-main.zip](https://download.fastgit.ixmu.net/BlueArchiveCN/Anti-Harmony/archive/refs/heads/main.zip) |
+| `韩国加速链接`    | [Anti-Harmony-main.zip](https://ghproxy.com/https://github.com/BlueArchiveCN/Anti-Harmony/archive/refs/heads/main.zip) |
+| `新加坡加速链接`  | [Anti-Harmony-main.zip](https://kgithub.com/BlueArchiveCN/Anti-Harmony/archive/refs/heads/main.zip) |
