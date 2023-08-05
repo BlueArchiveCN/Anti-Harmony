@@ -36,8 +36,8 @@ iOS如何使用：
 ### 其他方案
 
 建议**有一定搞机基础的人员**使用   
-**Magisk**和**ADB(Android Debug Bridge)**方案仅适用于**安卓手机**且**ADB**方案**仅限电脑**使用   
-[**Magisk 模块刷入**方案 by lxdklp](https://github.com/BlueArchiveCN/Anti-Harmony-Magisk)   
+**Magisk/Kernel SU**和**ADB(Android Debug Bridge)**方案仅适用于**安卓手机**且**ADB**方案**仅限电脑**使用   
+[**Magisk/Kernel SU 模块刷入**方案 by lxdklp](https://github.com/BlueArchiveCN/Anti-Harmony-Module)   
 [**ADB 命令行替换**方案 by Ayin](https://github.com/BlueArchiveCN/Anti-Harmony-ADB)   
 **当然，我们也欢迎您贡献其他方案！（包括iOS的方案）**   
 
