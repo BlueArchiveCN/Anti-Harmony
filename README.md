@@ -19,6 +19,7 @@
 4. 替换全部已拥有文件，完成反和谐   
 5. 打开蔚蓝档案   
 
+
 iOS如何使用：
 1. 打开你的手机文件管理器，（推荐用Filza）  
 2. 定位到 `/private/var/mobile/Containers/Data/Application/com.RoamingStar.BlueArchive/Data/Documents/AssetBundls`      （com.RoamingStar.BlueArchive在Filza里可能显示为“蔚蓝档案”）
