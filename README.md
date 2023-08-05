@@ -22,15 +22,19 @@
  
 **iOS**如何使用：
 
-注意事项：iOS版本大于**16.1.2**的暂无方法使用反和谐。iOS替换文件需要用到Filza，安装Filza需要系统版本**小于iOS16.1.2**，并且通过越狱或者使用Trollstore安装。系统版本为**iOS14.0-15.4.1**的可以使用Trollstore安装。不能越狱也不能用Trollstore的系统则请使用自签工具安装。
+注意事项：   
+iOS版本**大于16.1.2**的暂无方法使用反和谐。   
+iOS替换文件需要用到`Filza`，安装Filza需要**系统版本小于iOS16.1.2**，并且通过**越狱**或者**使用Trollstore安装**。系统版本为**iOS14.0-15.4.1**的可以使用`Trollstore`安装。   
+**不能越狱也不能用Trollstore的系统**则请使用**自签工具**安装。
 1. 打开**Filza**  
 2. 定位到 `/private/var/mobile/Containers/Data/Application/0881226D-4C15-4B7C-96C7-CC392B6EABA3/Documents/AssetBundls`文件夹   
-   （“`0881226D-4C15-4B7C-96C7-CC392B6EABA3`” 在`Filza`里可能显示为“蔚蓝档案”）
+   （“`0881226D-4C15-4B7C-96C7-CC392B6EABA3`” 在`Filza`里可能显示为“蔚蓝档案”）   
 3. 下载仓库里的iOS反和谐文件   
-4. 把下载的iOS反和谐文件夹内的文件全部拷贝到**AssetBundls**文件夹内，并“替换全部”
-5. 打开蔚蓝档案   
+4. 把下载的iOS反和谐文件夹内的文件全部拷贝到**AssetBundls**文件夹内，并“替换全部”   
+5. 打开蔚蓝档案    
 
-**文字看不懂？** [**安卓视频教程**](https://www.bilibili.com/video/BV1PM4y1p79e/) **iOS视频教程**在下面链接的群内
+**文字看不懂？** [**安卓视频教程**](https://www.bilibili.com/video/BV1PM4y1p79e/)    
+**iOS视频教程**在下面链接的群内
 
 **仍然不会？**  [**点击链接加入群聊【BA国服反和谐交流群】**](https://qm.qq.com/cgi-bin/qm/qr?k=xJx5SpbL-Exu7Fk1oiIXldAN1J_LEUb4&jump_from=webapi&authKey=An0DcDs9/SDZsBNCDJWngMuQDt+ty7UPfwn4qto1JkCVLOAUK5TIS+ihQjTAfD2Q) **，寻求群友的帮助！   （加群答案：GitHub）**
 
@@ -41,6 +45,7 @@
 建议**有一定搞机基础的人员**使用   
 **Magisk/Kernel SU**和**ADB(Android Debug Bridge)**方案仅适用于**安卓手机**且**ADB**方案**仅限电脑**使用   
 [**Magisk/Kernel SU 模块刷入**方案 by lxdklp](https://github.com/BlueArchiveCN/Anti-Harmony-Module)   
+
 [**ADB 命令行替换**方案 by Ayin](https://github.com/BlueArchiveCN/Anti-Harmony-ADB)   
 **当然，我们也欢迎您贡献其他方案！（包括iOS的方案）**   
 
