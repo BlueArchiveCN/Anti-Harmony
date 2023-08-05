@@ -9,7 +9,6 @@
 ## 教程
 
 安卓如何使用：   
-
 1. 打开你的手机文件管理器，（推荐用MT管理器）如果找不到的[从这里下载](https://mt2.cn/download/)   
 2. 定位到 `Android/data/com.RoamingStar.BlueArchive/files/AssetBundls`   
    **不会定位**？    
@@ -21,7 +20,6 @@
 5. 打开蔚蓝档案   
 
 iOS如何使用：
-
 1. 打开你的手机文件管理器，（推荐用Filza）  
 2. 定位到 `/private/var/mobile/Containers/Data/Application/com.RoamingStar.BlueArchive/Data/Documents/AssetBundls`      （com.RoamingStar.BlueArchive在Filza里可能显示为“蔚蓝档案”）
 3. 下载仓库里的反和谐文件（根据系统下载）   
