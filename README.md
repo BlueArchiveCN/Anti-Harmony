@@ -33,12 +33,12 @@ Choose one of the links below.
 
 | Link provider     | Artifact                                                     |
 | ----------------- | ------------------------------------------------------------ |
-| `GitHub 官方链接` | [bluearchiveChinaServerAnti-Harmony-main.zip](https://github.com/BlueArchiveCN/Anti-Harmony-ADB/archive/refs/heads/main.zip) |
-| `美国加速链接1`   | [bluearchiveChinaServerAnti-Harmony-main.zip](https://git.xfj0.cn/https://github.com/BlueArchiveCN/Anti-Harmony-ADB/archive/refs/heads/main.zip) |
-| `美国加速链接2`   | [bluearchiveChinaServerAnti-Harmony-main.zip](https://download.njuu.cf/BlueArchiveCN/Anti-Harmony-ADB/archive/refs/heads/main.zip) |
-| `美国加速链接3`   | [bluearchiveChinaServerAnti-Harmony-main.zip](https://hub.gitmirror.com/https://github.com/BlueArchiveCN/Anti-Harmony-ADB/archive/refs/heads/main.zip) |
-| `美国加速链接4`   | [bluearchiveChinaServerAnti-Harmony-main.zip](https://download.yzuu.cf/BlueArchiveCN/Anti-Harmony-ADB/archive/refs/heads/main.zip) |
-| `德国加速链接`    | [bluearchiveChinaServerAnti-Harmony-main.zip](https://archive.fastgit.org/BlueArchiveCN/Anti-Harmony-ADB/archive/refs/heads/main.zip) |
-| `日本加速链接`    | [bluearchiveChinaServerAnti-Harmony-main.zip](https://download.fastgit.ixmu.net/BlueArchiveCN/Anti-Harmony-ADB/archive/refs/heads/main.zip) |
-| `韩国加速链接`    | [bluearchiveChinaServerAnti-Harmony-main.zip](https://ghproxy.com/https://github.com/BlueArchiveCN/Anti-Harmony-ADB/archive/refs/heads/main.zip) |
-| `新加坡加速链接`  | [bluearchiveChinaServerAnti-Harmony-main.zip](https://kgithub.com/BlueArchiveCN/Anti-Harmony-ADB/archive/refs/heads/main.zip) |
+| `GitHub 官方链接` | [Anti-Harmony-ADB-main.zip](https://github.com/BlueArchiveCN/Anti-Harmony-ADB/archive/refs/heads/main.zip) |
+| `美国加速链接1`   | [Anti-Harmony-ADB-main.zip](https://git.xfj0.cn/https://github.com/BlueArchiveCN/Anti-Harmony-ADB/archive/refs/heads/main.zip) |
+| `美国加速链接2`   | [Anti-Harmony-ADB-main.zip](https://download.njuu.cf/BlueArchiveCN/Anti-Harmony-ADB/archive/refs/heads/main.zip) |
+| `美国加速链接3`   | [Anti-Harmony-ADB-main.zip](https://hub.gitmirror.com/https://github.com/BlueArchiveCN/Anti-Harmony-ADB/archive/refs/heads/main.zip) |
+| `美国加速链接4`   | [Anti-Harmony-ADB-main.zip](https://download.yzuu.cf/BlueArchiveCN/Anti-Harmony-ADB/archive/refs/heads/main.zip) |
+| `德国加速链接`    | [Anti-Harmony-ADB-main.zip](https://archive.fastgit.org/BlueArchiveCN/Anti-Harmony-ADB/archive/refs/heads/main.zip) |
+| `日本加速链接`    | [Anti-Harmony-ADB-main.zip](https://download.fastgit.ixmu.net/BlueArchiveCN/Anti-Harmony-ADB/archive/refs/heads/main.zip) |
+| `韩国加速链接`    | [Anti-Harmony-ADB-main.zip](https://ghproxy.com/https://github.com/BlueArchiveCN/Anti-Harmony-ADB/archive/refs/heads/main.zip) |
+| `新加坡加速链接`  | [Anti-Harmony-ADB-main.zip](https://kgithub.com/BlueArchiveCN/Anti-Harmony-ADB/archive/refs/heads/main.zip) |
