@@ -22,7 +22,7 @@
 
 iOS如何使用：
 1. 打开你的手机文件管理器，（推荐用Filza）  
-2. 定位到 `/private/var/mobile/Containers/Data/Application/com.RoamingStar.BlueArchive/Data/Documents/AssetBundls`      （“com.RoamingStar.BlueArchive” 在 Filza里可能显示为“蔚蓝档案”）
+2. 定位到 `/private/var/mobile/Containers/Data/Application/com.RoamingStar.BlueArchive/Data/Documents/AssetBundls`      （“com.RoamingStar.BlueArchive” 在Filza里可能显示为“蔚蓝档案”）
 3. 下载仓库里的反和谐文件（根据系统下载）   
 4. 替换全部已拥有文件，完成反和谐   
 5. 打开蔚蓝档案   
