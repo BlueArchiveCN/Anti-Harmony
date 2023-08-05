@@ -8,7 +8,8 @@
 
 ## 教程
 
-安卓如何使用：   
+**安卓**如何使用：   
+
 1. 打开你的手机文件管理器，（推荐用`MT管理器`）如果找不到的[从这里下载](https://mt2.cn/download/)   
 2. 定位到 `Android/data/com.RoamingStar.BlueArchive/files/AssetBundls`   
    **不会定位**？    
@@ -18,16 +19,18 @@
 3. 下载仓库里的反和谐文件（根据系统下载）   
 4. 替换全部已拥有文件，完成反和谐   
 5. 打开蔚蓝档案   
+ 
+**iOS**如何使用：
 
-iOS如何使用：
-1. 打开你的手机文件管理器，（推荐用`Filza`）  
-2. 定位到 `/private/var/mobile/Containers/Data/Application/0881226D-4C15-4B7C-96C7-CC392B6EABA3/Documents/AssetBundls`   
-     （“`0881226D-4C15-4B7C-96C7-CC392B6EABA3`” 在`Filza`里可能显示为“蔚蓝档案”）
-3. 下载仓库里的反和谐文件（根据系统下载）   
-4. 替换全部已拥有文件，完成反和谐   
+注意事项：iOS版本大于**16.1.2**的暂无方法使用反和谐。iOS替换文件需要用到Filza，安装Filza需要系统版本**小于iOS16.1.2**，并且通过越狱或者使用Trollstore安装。系统版本为**iOS14.0-15.4.1**的可以使用Trollstore安装。不能越狱也不能用Trollstore的系统则请使用自签工具安装。
+1. 打开**Filza**  
+2. 定位到 `/private/var/mobile/Containers/Data/Application/0881226D-4C15-4B7C-96C7-CC392B6EABA3/Documents/AssetBundls`文件夹   
+   （“`0881226D-4C15-4B7C-96C7-CC392B6EABA3`” 在`Filza`里可能显示为“蔚蓝档案”）
+3. 下载仓库里的iOS反和谐文件   
+4. 把下载的iOS反和谐文件夹内的文件全部拷贝到**AssetBundls**文件夹内，并“替换全部”
 5. 打开蔚蓝档案   
 
-**文字看不懂？** [**视频教程**](https://www.bilibili.com/video/BV1PM4y1p79e/)   
+**文字看不懂？** [**安卓视频教程**](https://www.bilibili.com/video/BV1PM4y1p79e/) **iOS视频教程**在下面链接的群内
 
 **仍然不会？**  [**点击链接加入群聊【BA国服反和谐交流群】**](https://qm.qq.com/cgi-bin/qm/qr?k=xJx5SpbL-Exu7Fk1oiIXldAN1J_LEUb4&jump_from=webapi&authKey=An0DcDs9/SDZsBNCDJWngMuQDt+ty7UPfwn4qto1JkCVLOAUK5TIS+ihQjTAfD2Q) **，寻求群友的帮助！   （加群答案：GitHub）**
 
