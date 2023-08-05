@@ -48,4 +48,4 @@ Choose one of the links below.
 | `德国加速链接`    | [bluearchiveChinaServerAnti-Harmony-main.zip](https://archive.fastgit.org/yemoyu123/bluearchiveChinaServerAnti-Harmony/archive/refs/heads/main.zip) |
 | `日本加速链接`    | [bluearchiveChinaServerAnti-Harmony-main.zip](https://download.fastgit.ixmu.net/yemoyu123/bluearchiveChinaServerAnti-Harmony/archive/refs/heads/main.zip) |
 | `韩国加速链接`    | [bluearchiveChinaServerAnti-Harmony-main.zip](https://ghproxy.com/https://github.com/yemoyu123/bluearchiveChinaServerAnti-Harmony/archive/refs/heads/main.zip) |
-| `新加坡加速链接`  | [bluearchiveChinaServerAnti-Harmony-main.zip](               |
+| `新加坡加速链接`  | [bluearchiveChinaServerAnti-Harmony-main.zip](https://kgithub.com/yemoyu123/bluearchiveChinaServerAnti-Harmony/archive/refs/heads/main.zip) |
