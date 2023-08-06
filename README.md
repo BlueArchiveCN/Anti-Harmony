@@ -2,6 +2,10 @@
 
 > 这是一个蔚蓝档案反和谐仓库   
 
+<div align=center>
+<img src="https://github.com/BlueArchiveCN/.github/raw/master/reseller.svg" />
+</div>
+
 ## 效果图
 
 ![效果图](./反和谐修改效果图.png)
