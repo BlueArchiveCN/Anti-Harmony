@@ -29,10 +29,10 @@
 注意事项：   
 iOS版本**大于16.1.2**的暂无方法使用反和谐。   
 iOS替换文件需要用到`Filza`，安装Filza需要**系统版本小于iOS16.1.2**，并且通过**越狱**或者**使用Trollstore安装**。系统版本为**iOS14.0-15.4.1**的可以使用`Trollstore`安装。   
-**不能越狱也不能用Trollstore的系统**则请使用**自签工具**安装。
+**不能越狱也不能用Trollstore的系统**则请使用**自签工具**安装。Filza本体和安装教程在下面链接的群内
 1. 打开**Filza**  
-2. 定位到 `/private/var/mobile/Containers/Data/Application/0881226D-4C15-4B7C-96C7-CC392B6EABA3/Documents/AssetBundls`文件夹   
-   （“`0881226D-4C15-4B7C-96C7-CC392B6EABA3`” 在`Filza`里可能显示为“蔚蓝档案”）   
+2. 定位到 `/private/var/mobile/Containers/Data/Application/com.RoamingStar.BlueArchive/Documents/AssetBundls`文件夹   
+   （“`com.RoamingStar.BlueArchive`” 在`Filza`里可能显示为“蔚蓝档案”）   
 3. 下载仓库里的iOS反和谐文件   
 4. 把下载的iOS反和谐文件夹内的文件全部拷贝到**AssetBundls**文件夹内，并“替换全部”   
 5. 打开蔚蓝档案    
