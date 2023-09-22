@@ -1,0 +1,70 @@
+name: release
+on:
+  push:
+    paths:
+      - "module.json"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+      - name: 1. 准备文件
+        run: |
+          echo "version=$(jq -r .version $GITHUB_WORKSPACE/module.json)" >> $GITHUB_ENV
+          echo "versionCode=$(jq -r .versionCode $GITHUB_WORKSPACE/module.json)" >> $GITHUB_ENV
+          echo "ModuleFolderName=Cn_BA_Unlocker" >> $GITHUB_ENV
+      - name: 2. 制作模块
+        run: |
+          mkdir -p "$GITHUB_WORKSPACE"/GithubRelease
+          echo "version=${{ env.version }}" >>$GITHUB_WORKSPACE/${{ env.ModuleFolderName }}/module.prop
+          echo "versionCode=${{ env.versionCode }}" >>$GITHUB_WORKSPACE/${{ env.ModuleFolderName }}/module.prop
+          cd $GITHUB_WORKSPACE/${{ env.ModuleFolderName }}
+          zip -q -r ${{ env.ModuleFolderName }}.zip *
+          mv $GITHUB_WORKSPACE/${{ env.ModuleFolderName }}/${{ env.ModuleFolderName }}.zip "$GITHUB_WORKSPACE"/GithubRelease/${{ env.ModuleFolderName }}.zip
+          cd "$GITHUB_WORKSPACE"
+          touch file.log
+          echo "${{ env.ModuleFolderName }}.zip" > file.log
+      - name: 3.上传到Github Release
+        uses: ncipollo/release-action@main
+        with:
+          artifacts: ${{ github.workspace }}/GithubRelease/*
+          name: "${{ env.ModuleFolderName }} ${{ env.version }}"
+          tag: "${{ env.version }}"
+          bodyFile: "${{ github.workspace }}/file.log"
+          allowUpdates: true
+          artifactErrorsFailBuild: true
+          makeLatest: true
+      - name: 4. 再次初始化仓库
+        run: |
+          rm -rf $GITHUB_WORKSPACE/*
+      - uses: actions/checkout@main
+      - name: 5. 更新下载链接
+        run: |
+          git config --global user.email "1294673511@qq.com
+          git config --global user.name "WangshuXC"
+          sed -i '4d' $GITHUB_WORKSPACE/module.json
+          browser_download_url=$(curl -L   -H "Accept: application/vnd.github+json"   -H "Authorization: Bearer ${{ github.token }}"   -H "X-GitHub-Api-Version: 2022-11-28"   https://api.github.com/repos/WangshuXC/Anti-Harmony-Module/releases/tags/${{ env.version }} | jq -r .assets[].browser_download_url | cut -d'"' -f2)
+          sed -i '3a "zipUrl": "https://ghproxy.com/'"$browser_download_url"'",' $GITHUB_WORKSPACE/module.json
+          jq . $GITHUB_WORKSPACE/module.json > $GITHUB_WORKSPACE/new.json
+          rm -rf $GITHUB_WORKSPACE/module.json && mv $GITHUB_WORKSPACE/new.json $GITHUB_WORKSPACE/module.json
+          git add ./module.json
+          if git commit -m "v${{ env.version }}"; then
+              echo "push=true" >> $GITHUB_ENV
+          else
+              echo "push=false" >> $GITHUB_ENV
+          fi
+      - name: 6. 更新 .gitattributes
+        run: |
+          git config --global user.email "1294673511@qq.com
+          git config --global user.name "WangshuXC"
+          sed -i 's/Cn_BA_Unlocker/${{ env.ModuleFolderName }}/g' $GITHUB_WORKSPACE/.gitattributes
+          git add ./.gitattributes
+          if git commit -m "更新 .gitattributes"; then
+              echo "更新 .gitattributes : Success!"
+          fi
+      - if: ${{ env.push == 'true' }}
+        name: 7. 推送到Magisk Module仓库
+        uses: ad-m/github-push-action@master
+        with:
+          branch: ${{ github.ref }}
