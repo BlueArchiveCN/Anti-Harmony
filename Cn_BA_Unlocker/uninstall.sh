@@ -17,5 +17,3 @@ else
         rm -rf "/sdcard/Documents/BA-b-backups/"
     fi
 fi
-MODDIR=${0%/*}
-rm -rf "$MODDIR"
