@@ -6,6 +6,9 @@
 <img src="https://github.com/BlueArchiveCN/.github/raw/master/reseller.svg" />
 </div>
 
+# GitHub仓库停止更新
+## 请前往QQ群下载反和谐文件
+
 ## 效果图
 
 ![效果图](./反和谐修改效果图.png)
@@ -41,7 +44,7 @@ iOS替换文件需要用到`Filza`，安装Filza需要**系统版本小于iOS16.
 **iOS视频教程**在下面链接的群内
 
 **仍然不会？**  [**~~点击链接加入群聊【BA国服反和谐交流群】~~ 满了加2群**](https://qm.qq.com/cgi-bin/qm/qr?k=xJx5SpbL-Exu7Fk1oiIXldAN1J_LEUb4&jump_from=webapi&authKey=An0DcDs9/SDZsBNCDJWngMuQDt+ty7UPfwn4qto1JkCVLOAUK5TIS+ihQjTAfD2Q)   
-[**点击链接加入群聊【BA国服萝莉反和谐交流2群】**](https://qm.qq.com/cgi-bin/qm/qr?k=rT8nZjZTJELbvPWAb6cqs9pN7d7QfQXw&jump_from=webapi&authKey=35hwtgxiZ4jYbYpem4W9epuu/rajf1J0EEikOsOKQGJrq2dkski86pUh/qcV6ozk)**，寻求群友的帮助！   （加群答案：GitHub）**
+[**点击链接加入群聊【BA国服萝莉反和谐交流2群git】**](https://qm.qq.com/cgi-bin/qm/qr?k=rT8nZjZTJELbvPWAb6cqs9pN7d7QfQXw&jump_from=webapi&authKey=35hwtgxiZ4jYbYpem4W9epuu/rajf1J0EEikOsOKQGJrq2dkski86pUh/qcV6ozk)**，寻求群友的帮助！   （加群答案：GitHub）**
 
 如果你在手机上**找不到**下载按钮，使用以下的链接之一（也可以到群里下载）   
 
